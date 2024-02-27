@@ -1,8 +1,8 @@
 //! # Helpers
 //!
-//! General purpose utilties that don't have a home :(
+//! General purpose utilties that don't have a home :(/?)
 
-////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////sdf////////////////////////////////
 
 #[cfg(test)]
 pub(crate) mod tests {
@@ -34,7 +34,7 @@ pub(crate) mod tests {
         *ACCOUNT_1_NONCE.lock().await = nonce;
         nonce
     }
-//header start
+
     pub async fn deploy_contract(simple: bool) -> H256 {
         let web3 = web3();
         let from = *ACCOUNT_1;
