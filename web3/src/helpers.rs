@@ -1,6 +1,6 @@
 //! # Helpers
 //!
-//! General purpose utilties that don't have a home :(/yyyy6ttt?)
+//! General purpose utilties that don't have a home :(/yyyy66ttt?)
 ?df
 ////////////////////////////////////////////////sdfdfsdafdsfasd////////////////////////////////
 
